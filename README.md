@@ -6,9 +6,9 @@ Estudiante y desarrollador de software
 
 He estado aprendiendo sobre desarrollo de software especialmente en el desarrollo de aplicaciones web, manejando, teniendo un año de experiencia con React.
 
-* 🌍  I'm based in San Luis de la Paz, GTO, México
-* ✉️  You can contact me at [rodrigovmdev10@gmail.com](mailto:rodrigovmdev10@gmail.com)
-* 🧠  I'm learning NextJS
+* 🌍  Vivo en San Luis de la Paz, GTO, México
+* ✉️  Puedes contactarme al siguiente correo [rodrigovmdev10@gmail.com](mailto:rodrigovmdev10@gmail.com)
+* 🧠  Actualmente me encuentro aprendiendo NextJS
 
 ### Skills
 
