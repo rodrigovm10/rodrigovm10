@@ -1,4 +1,4 @@
-### Hey!, Soy rodrigovm10
+# Hey!, Soy rodrigovm10
 Estudiante y desarrollador de software de Guanajuato, México.
 
 ## Tecnológias
